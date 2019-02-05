@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
 }
 
 html, body{
@@ -69,7 +70,6 @@ html, body{
 	font-weight: normal;
 	color: #999999;
 	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 }
 
@@ -80,7 +80,6 @@ html, body{
 .input-container span, .form p{
 	display: inline-block;
 	width: 100%;
-	font-family: 'Open Sans', sans-serif;
 	color: #BBBBBB;
 	font-size: 17px;
 }
@@ -102,7 +101,6 @@ html, body{
 
 .form input[type=submit]{
 	border: 0;
-	font-family: 'Open Sans', sans-serif;
 	color: white;
 	font-size: 25px;
 	width: 280px;
@@ -130,7 +128,6 @@ html, body{
 }
 
 .container-list ul li{
-	font-family: 'Open Sans', sans-serif;
 	margin-top: 18px;
 	color: white;
 }
@@ -139,13 +136,11 @@ html, body{
 	padding: 40px 2%;
 	background-color: rgb(221, 221, 221);
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-}
+	}
 
 .container-2 h2{
 	font-weight: normal;
-	font-family: 'Open Sans', sans-serif;
-}
+	}
 
 .container-2 p{
 	/*width: 692px;*/
@@ -153,7 +148,6 @@ html, body{
 	padding: 0 2%;
 	display: inline-block;
 	text-align: justify;
-	font-family: 'Open Sans', sans-serif;
 }
 
 .arrow{
@@ -175,7 +169,6 @@ html, body{
 	text-align: center;
 	color: #462663;
 	font-weight: normal;
-	font-family: 'Open Sans', sans-serif;
 }
 
 .container-section{
@@ -194,14 +187,12 @@ html, body{
 }
 
 .text-container-single p{
-	font-family: 'Open Sans', sans-serif;
 	padding: 20px 15px;
 	text-align: justify;
 	display: inline-block;
 }
 
 .text-container-single h2{
-	font-family: 'Open Sans', sans-serif;
 	padding-top: 10px;
 }
 
@@ -210,5 +201,4 @@ html, body{
 	border-top: 2px solid #363A6D;
 	background-color: #4dd2ff;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
 }
