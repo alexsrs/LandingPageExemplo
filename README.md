@@ -1,1 +1,1 @@
-# projeto01 - LandingPage - Design Responsivo
+# projeto01 - Landing Page - Design Responsivo
