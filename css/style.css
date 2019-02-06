@@ -296,4 +296,9 @@ html, body{
 		padding: 30px 0;
 	}
 
+	.imput-container input[type=text]{
+		width: 100%;
+		height: 45px;
+	}
+
 }
