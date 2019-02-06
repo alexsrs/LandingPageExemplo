@@ -51,7 +51,7 @@ html, body{
 }
 
 .form{
-	padding: 10px;
+	padding: 20px;
 	width: 400px;
 	/*width: 33.3%;*/
 
@@ -82,14 +82,18 @@ html, body{
 	width: 100%;
 	color: #BBBBBB;
 	font-size: 17px;
+	text-align: left;
+	padding-left: 10px;
 }
 
 .form p{
 	display: inline-block;
 	width: 100%;
 	color: #BBBBBB;
-	font-size: 7px;
+	font-size: 17px;
 	margin: 20px 0;
+	text-align: left;
+	padding-left: 10px;
 }
 
 .input-container input[type=text]{
@@ -97,7 +101,9 @@ html, body{
 	width: 344px;
 	height: 55px;
 	border: 1px solid #ccc;
+	padding-left: 10px;
 }
+
 
 .form .input-submit-container{
 	text-align: center;
